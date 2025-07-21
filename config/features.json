@@ -1,0 +1,7 @@
+{
+  "visual_dashboard": false,
+  "bulk_product_uploader": false,
+  "quote_generator": false,
+  "demo_login_mode": true,
+  "zapier_bridge": false
+}
