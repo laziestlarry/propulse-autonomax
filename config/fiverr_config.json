@@ -1,0 +1,35 @@
+{
+  "fiverr": {
+    "username": "lazy_larry",
+    "email": "lazylarries@gmail.com",
+    "auto_respond": true,
+    "response_delay": 300,
+    "working_hours": {
+      "start": "09:00",
+      "end": "18:00",
+      "timezone": "UTC"
+    }
+  },
+  "automation": {
+    "check_interval": 60,
+    "max_daily_responses": 50,
+    "auto_accept_orders": false,
+    "demo_mode": true,
+    "auto_respond": true
+  },
+  "ai": {
+    "model": "gpt-3.5-turbo",
+    "max_tokens": 500,
+    "temperature": 0.7
+  },
+  "dashboard": {
+    "port": 8080,
+    "host": "localhost",
+    "refresh_rate": 30
+  },
+  "notifications": {
+    "email_alerts": true,
+    "webhook_url": "",
+    "slack_channel": ""
+  }
+}

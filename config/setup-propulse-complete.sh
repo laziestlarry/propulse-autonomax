@@ -1,4 +1,3 @@
-cat > setup-propulse-complete.sh << 'EOF'
 #!/bin/bash
 
 # ProPulse Platform - Complete Setup Script
