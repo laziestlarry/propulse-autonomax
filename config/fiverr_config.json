@@ -15,7 +15,8 @@
     "max_daily_responses": 50,
     "auto_accept_orders": false,
     "demo_mode": true,
-    "auto_respond": true
+    "auto_respond": true,
+    "response_delay": 300
   },
   "ai": {
     "model": "gpt-3.5-turbo",
